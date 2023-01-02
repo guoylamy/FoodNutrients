@@ -1,1 +1,3 @@
 # FoodNutrients
+
+We consumed a lot of food everyday. However, we may not fully know them! Food has multiple facts, including brands, categories, place of origin, nutritional ingredients, etc. We hope to learn about foods using scientific methods, for example, classify them according to different criteria or predicting their nutrition scores. We will explore the "Open Food Facts" dataset from kaggle (https://www.kaggle.com/datasets/openfoodfacts/world-food-facts) to find out some interesting facts. We will focus on the relationship between nutrition factors and geographic factors & food scores.
